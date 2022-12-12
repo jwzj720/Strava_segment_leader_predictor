@@ -1,0 +1,1 @@
+swagger_client (pip install git+https://github.com/sladkovm/strava-swagger-client)
