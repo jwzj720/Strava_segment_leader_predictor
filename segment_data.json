@@ -1,0 +1,184 @@
+{
+  "segments": [
+    {
+      "id": 17426691,
+      "name": "Tiny Stinker (North)",
+      "climb_category": 0,
+      "climb_category_desc": "NC",
+      "avg_grade": 3.6,
+      "start_latlng": [
+        38.851015,
+        -104.828337
+      ],
+      "end_latlng": [
+        38.852282,
+        -104.828436
+      ],
+      "elev_difference": 6.6,
+      "distance": 144.4,
+      "points": "yaclFbhy~Rm@Bo@EWGy@?mA\\"
+    },
+    {
+      "id": 5483924,
+      "name": "Stairs to the Turn at Boddington",
+      "climb_category": 0,
+      "climb_category_desc": "NC",
+      "avg_grade": 0.7,
+      "start_latlng": [
+        38.85402,
+        -104.829636
+      ],
+      "end_latlng": [
+        38.865612,
+        -104.828159
+      ],
+      "elev_difference": 11.4,
+      "distance": 1413.4,
+      "points": "stclFfpy~RQRg@`@]JgBnA[N]TUTm@x@YXiBz@i@FWJeAF_F?iBFkBAaAQwAi@cEuCgB_AyA}@mAeAW_@aByBi@c@q@Sg@EkCGuA?sAI{@Mo@Y"
+    },
+    {
+      "id": 20583091,
+      "name": "The sneaky one",
+      "climb_category": 0,
+      "climb_category_desc": "NC",
+      "avg_grade": 1,
+      "start_latlng": [
+        38.84411,
+        -104.828509
+      ],
+      "end_latlng": [
+        38.846056,
+        -104.829384
+      ],
+      "elev_difference": 3,
+      "distance": 270.8,
+      "points": "uvalFdiy~R?YGWSEKBsBfBqArAKFe@PqATI?GG"
+    },
+    {
+      "id": 18911278,
+      "name": "B2B ",
+      "climb_category": 0,
+      "climb_category_desc": "NC",
+      "avg_grade": -0.4,
+      "start_latlng": [
+        38.860777,
+        -104.828678
+      ],
+      "end_latlng": [
+        38.859819,
+        -104.831336
+      ],
+      "elev_difference": 14,
+      "distance": 1461.7,
+      "points": "y~dlFfjy~R[AOG}AeA{@e@MISUQe@G_@Ey@@UA_@Ii@U_@_@_@SMUK_AEm@@OD_@RWJeARUJsAPi@@]H{@\\a@Xg@f@i@b@IPGRAf@Lf@JL^PxCT|C?p@Bp@P`@Pb@Z`A~@x@jAZ^jA`ArExC`Af@lC~A"
+    },
+    {
+      "id": 21463873,
+      "name": "You probably run fast on this part anyway.",
+      "climb_category": 0,
+      "climb_category_desc": "NC",
+      "avg_grade": 0,
+      "start_latlng": [
+        38.835248,
+        -104.830087
+      ],
+      "end_latlng": [
+        38.831699,
+        -104.833515
+      ],
+      "elev_difference": 2,
+      "distance": 506,
+      "points": "g_`lF`sy~RhBt@zAt@f@ZtAdBbAzAf@h@XN\\z@n@n@x@jAj@n@V\\n@b@"
+    },
+    {
+      "id": 1439652,
+      "name": "Memorial Park Loop",
+      "climb_category": 0,
+      "climb_category_desc": "NC",
+      "avg_grade": 0,
+      "start_latlng": [
+        38.82569281666667,
+        -104.79633888333335
+      ],
+      "end_latlng": [
+        38.82523515,
+        -104.79577716666667
+      ],
+      "elev_difference": 3.9,
+      "distance": 1884.6,
+      "points": "qc~kFb`s~R@Lu@z@g@jAqApBq@nAGRYvA[x@o@~@_@p@s@nBg@p@Qd@Kf@?XHj@\\p@fAnCf@|@j@nAj@j@D@n@a@bDkCpCaBrBoBh@u@f@k@hBqDT[NW\\{@`A{BfA_BZk@@EBQC}@Qw@So@m@cA_AgBaAaBoAcBIGKEq@Cy@HQHc@^uAdC"
+    },
+    {
+      "id": 19379756,
+      "name": "300m stretch",
+      "climb_category": 0,
+      "climb_category_desc": "NC",
+      "avg_grade": -2.5,
+      "start_latlng": [
+        38.821555,
+        -104.855128
+      ],
+      "end_latlng": [
+        38.821409,
+        -104.851789
+      ],
+      "elev_difference": 7.4,
+      "distance": 290.8,
+      "points": "ui}kFpo~~RDe@DeB?iDPeJ"
+    },
+    {
+      "id": 2588795,
+      "name": "Sunrise Striders Bear Creek Tempo",
+      "climb_category": 0,
+      "climb_category_desc": "NC",
+      "avg_grade": 0.2,
+      "start_latlng": [
+        38.8221098,
+        -104.8409806
+      ],
+      "end_latlng": [
+        38.8221919,
+        -104.8409878
+      ],
+      "elev_difference": 66.2,
+      "distance": 6255.9,
+      "points": "em}kFdw{~RHr@LXJd@l@bAZt@t@|@Vl@LDb@SF?JDN\\Fd@NRXTTb@X^jBhAXp@@ZDFDB`@CNNb@nAT\\ZVRFDA@E@WHS\\e@`@sAFKVEb@Xh@j@RVp@hAXNb@Hb@LXL^l@@n@_AjDIr@?h@D`AHp@RjA@~@Mf@W\\Qn@Uh@k@`Ai@nBMVIFU@[BSAi@Se@_@UJOBECUa@WY[KYDOPGP@XL^n@r@`@TXTt@bAd@`AjAbATh@J\\@REl@It@Op@]x@Gt@SrAD`@j@vBj@rCf@xCBn@?d@Fb@AhAObAKf@OnAO`@[Pc@B_@QQQYe@e@sA_@m@cAw@SK_@GO?]@g@P_@TaA~@c@Z}At@a@JYQw@_Da@uBIw@?q@Dw@Lw@LcCF{FR{J\\wAVo@\\[^Ux@c@TFHJ`@`AfA|Cd@jCRd@l@~@RDn@MB@HP@f@Fl@NVNb@^rB?rABRHNXV~BlADEE]a@_BUkAUu@Gc@ZyCZaAPcADa@@y@K_@OYUYy@o@g@eAw@iA_@[C?KGe@m@KUIk@Pa@VKDAZHb@ZXb@JDNIV?d@\\j@Jb@Eb@Ul@aCd@gAd@_BTc@Bq@AQGq@Q_AIu@?eBHo@r@kCFg@Mc@a@We@O]Ek@QeA}Aq@m@SMKCSLMRSp@[n@IJOd@OCECg@_@KMUg@Uu@YKYDIOGs@SYa@_@}@g@m@o@Wa@][GOIo@MKO@SLS?i@}@SUUc@Wk@k@gAYy@Iq@"
+    },
+    {
+      "id": 1347425,
+      "name": "Constitution Path School West to Union",
+      "climb_category": 0,
+      "climb_category_desc": "NC",
+      "avg_grade": -0.8,
+      "start_latlng": [
+        38.8589399,
+        -104.7828952
+      ],
+      "end_latlng": [
+        38.8614364,
+        -104.793653
+      ],
+      "elev_difference": 10,
+      "distance": 998.5,
+      "points": "isdlFblp~RHbG?zCBtAAv@GlCI|Aa@lDe@tC[nAu@dCm@dBsApEk@hB_@rAId@eAvC_@xAUd@"
+    },
+    {
+      "id": 18599660,
+      "name": "The Broadmoor Loop",
+      "climb_category": 0,
+      "climb_category_desc": "NC",
+      "avg_grade": 0,
+      "start_latlng": [
+        38.81086,
+        -104.826711
+      ],
+      "end_latlng": [
+        38.810766,
+        -104.826675
+      ],
+      "elev_difference": 194.4,
+      "distance": 16459.7,
+      "points": "{f{kF~}x~RXB^@\\S\\EzAFjAENBNH`ClGjBtFDTz@fCT|@f@zAP~@n@dBLj@fA~CRbARf@f@hBh@vAXdA|BjHl@|Al@|Bb@lAh@lBFNd@zAbArCNl@r@bCRf@rAnE`AvCr@lCPj@Th@Pz@d@rARt@l@zAx@dC\\tBTfBRdDXzBRpARl@d@fAv@rBj@xDPn@Fr@R`An@vBh@pA~@|CVh@Vf@Zd@bAfApAt@bAn@fBx@lBlA\\ZdBbBhAnAj@j@tA~AjAjAv@j@hAvAl@j@hArA|BbCdBxA`@Tf@j@Td@d@tAZxAr@dCJh@RlBCt@S~C@p@JfARn@b@`AbAtAf@z@p@z@r@t@z@t@X^p@p@~AhBp@`ArAjAh@\\bA|ARR\\Tb@NlAj@H?FKWe@{@_AWe@{@{B{@mBWc@i@s@s@kAw@_BQi@Y{EG_BQiHBuCDg@p@eCbAsBR[x@{@nByBv@mArA_DVg@f@wAj@sAb@oAz@sBl@kAZe@Vc@Zc@p@e@hAiAr@a@xBcAj@MbBYz@KhBEvCPvAV`@L`EdB^Jt@LxAh@Z\\Vb@b@|@j@xALNNLVFb@AbCmARUNQh@sA^_@n@g@Zc@d@qALs@LyB?c@c@}HAmARaCV_AVi@h@y@l@o@^U`@a@Pe@Do@@cAA_AG_Ae@_DYcAOWa@mAg@}@a@m@y@q@{@i@m@Wk@QkASc@SIIQYaBqDi@gBS}@Qe@M_@Y[]O]Ee@FgAp@UFe@B_@EqBg@i@KqCCg@CKCUi@EuBEq@Ao@Dq@AsCIaBQaAaAqC_@k@{@_Ak@c@}Cw@g@Ge@E}CEk@DyA?qCIaFCy@Gm@OQGy@e@qAeA]_@We@YwA_@kAiAyBk@uAU_@]]g@Yc@Ks@A_@F}@Jg@RiARaBNe@Ek@Qc@Y]Ws@kA_@c@QMo@Ky@E_AJgAPe@LWXBz@z@|FLlAPbAJr@LjBZdBr@rEZtCRl@FxAl@xDDl@Nj@VnBHr@b@rCjB~ORhAFl@b@`D\\zATrBLl@Lz@Ef@YLYRy@z@_@b@e@z@q@~BYzAQh@Qp@i@zAc@`AWL]@w@Mi@]wEuFUc@a@e@e@cAWeAW{AeAwGGm@m@uDIo@Y_BEk@@u@BEb@UX_@?EW{AWmBa@gCi@sDQaBUwAQ}AMm@Yg@Ye@]u@Qk@YoBAs@KoBScBEs@?q@RaBZsANwA?aBEWqBKg@Iu@W_AMiEK_@CiAAyBIe@I_@Y_@s@Q]Ok@Qa@c@Ec@PeBdAgB`Ag@N_@PK@a@[]o@Wa@K_@Sa@E?a@VaBnAg@Zg@VG?y@_AWc@yA_EIm@e@qAsAqE}AyEqA{E}@cCc@eBYk@s@cCMQQi@]gAc@Yq@AcBSwB?"
+    }
+  ]
+}
