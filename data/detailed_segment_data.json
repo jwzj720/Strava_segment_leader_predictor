@@ -1,0 +1,760 @@
+{
+  "segments": [
+    {
+      "id": 6105319,
+      "name": "Claremont Turkey Trot",
+      "activity_type": "Run",
+      "distance": 4962.8,
+      "average_grade": 0,
+      "maximum_grade": 4.6,
+      "elevation_high": 391.6,
+      "elevation_low": 354.1,
+      "start_latlng": [
+        34.094649,
+        -117.713766
+      ],
+      "end_latlng": [
+        34.094657,
+        -117.715236
+      ],
+      "climb_category": 0,
+      "city": "Claremont",
+      "state": "CA",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2013-11-28 18:21:43+00:00",
+      "updated_at": "2021-05-19 08:02:40+00:00",
+      "total_elevation_gain": 42,
+      "map": {
+        "id": "s6105319",
+        "polyline": "obboE`~mmUE]?eAQcHBcBCgAKmBC}ABk@KmAKeEOaBGeBKk@CC[Co@?oBHqA@o@EuDDwB?c@CoCBm@Ck@MMc@I{ABe@@cBBa@BcCAeCDoB@qACYSIgABeE?eEGaA?g@HCD@h@Fn@?~B@`CHh@Dn@Ap@@f@Kn@]bAKpB[\\cALiADeEDa@BUF?b@Ed@Ml@_@dAc@|@S~@E^DfBClDBxAEfFFjBDv@?t@B|AA`BDdHE`ABl@ApADjDCfDBXZPlAKf@?bAEvA@hBJh@I\\Af@BzACzABROFcABgCEc@BgDC{A@sACu@DOh@O~BIdALxA@fBErAB^D\\CVEbEAt@Ch@@zAE^?b@Fl@@vAA`@Bv@CtAD\\b@BX",
+        "summary_polyline": null
+      },
+      "effort_count": 512,
+      "athlete_count": 314,
+      "hazardous": false,
+      "star_count": 25
+    },
+    {
+      "id": 6105319,
+      "name": "Claremont Turkey Trot",
+      "activity_type": "Run",
+      "distance": 4962.8,
+      "average_grade": 0,
+      "maximum_grade": 4.6,
+      "elevation_high": 391.6,
+      "elevation_low": 354.1,
+      "start_latlng": [
+        34.094649,
+        -117.713766
+      ],
+      "end_latlng": [
+        34.094657,
+        -117.715236
+      ],
+      "climb_category": 0,
+      "city": "Claremont",
+      "state": "CA",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2013-11-28 18:21:43+00:00",
+      "updated_at": "2021-05-19 08:02:40+00:00",
+      "total_elevation_gain": 42,
+      "map": {
+        "id": "s6105319",
+        "polyline": "obboE`~mmUE]?eAQcHBcBCgAKmBC}ABk@KmAKeEOaBGeBKk@CC[Co@?oBHqA@o@EuDDwB?c@CoCBm@Ck@MMc@I{ABe@@cBBa@BcCAeCDoB@qACYSIgABeE?eEGaA?g@HCD@h@Fn@?~B@`CHh@Dn@Ap@@f@Kn@]bAKpB[\\cALiADeEDa@BUF?b@Ed@Ml@_@dAc@|@S~@E^DfBClDBxAEfFFjBDv@?t@B|AA`BDdHE`ABl@ApADjDCfDBXZPlAKf@?bAEvA@hBJh@I\\Af@BzACzABROFcABgCEc@BgDC{A@sACu@DOh@O~BIdALxA@fBErAB^D\\CVEbEAt@Ch@@zAE^?b@Fl@@vAA`@Bv@CtAD\\b@BX",
+        "summary_polyline": null
+      },
+      "effort_count": 512,
+      "athlete_count": 314,
+      "hazardous": false,
+      "star_count": 25
+    },
+    {
+      "id": 3465849,
+      "name": "Enough already - Coffee-time Sprint Finish!",
+      "activity_type": "Run",
+      "distance": 159.95,
+      "average_grade": 0.6,
+      "maximum_grade": 2.2,
+      "elevation_high": 404,
+      "elevation_low": 403,
+      "start_latlng": [
+        34.1071018,
+        -117.7062203
+      ],
+      "end_latlng": [
+        34.1071179,
+        -117.7044907
+      ],
+      "climb_category": 0,
+      "city": "Claremont",
+      "state": "CA",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2013-02-19 15:45:05+00:00",
+      "updated_at": "2021-05-20 08:02:25+00:00",
+      "total_elevation_gain": 0,
+      "map": {
+        "id": "s3465849",
+        "polyline": "kpdoEznlmUBwDE_D",
+        "summary_polyline": null
+      },
+      "effort_count": 17013,
+      "athlete_count": 1027,
+      "hazardous": false,
+      "star_count": 5
+    },
+    {
+      "id": 21458530,
+      "name": "CHS Track 400m",
+      "activity_type": "Run",
+      "distance": 416.4,
+      "average_grade": 0,
+      "maximum_grade": 3.1,
+      "elevation_high": 396.7,
+      "elevation_low": 393.8,
+      "start_latlng": [
+        34.111106,
+        -117.722508
+      ],
+      "end_latlng": [
+        34.111166,
+        -117.722612
+      ],
+      "climb_category": 0,
+      "city": "Claremont",
+      "state": "California",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2019-08-13 01:10:04+00:00",
+      "updated_at": "2021-05-17 08:08:23+00:00",
+      "total_elevation_gain": 2.9,
+      "map": {
+        "id": "s21458530",
+        "polyline": "kieoEttomUJSJe@\\_AVgAB]CWGMUa@SKWEUDSFOLMRM\\i@rCCV@VDVFJLNNHPDX?XE",
+        "summary_polyline": null
+      },
+      "effort_count": 55457,
+      "athlete_count": 443,
+      "hazardous": false,
+      "star_count": 7
+    },
+    {
+      "id": 15021773,
+      "name": "Freedom 5k Prep for the Final Long Hill",
+      "activity_type": "Run",
+      "distance": 693.8,
+      "average_grade": -0.5,
+      "maximum_grade": 2.3,
+      "elevation_high": 358.6,
+      "elevation_low": 355.1,
+      "start_latlng": [
+        34.09503,
+        -117.707208
+      ],
+      "end_latlng": [
+        34.094861,
+        -117.714703
+      ],
+      "climb_category": 0,
+      "city": null,
+      "state": null,
+      "country": null,
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2017-05-30 17:46:52+00:00",
+      "updated_at": "2021-05-18 08:04:48+00:00",
+      "total_elevation_gain": 0,
+      "map": {
+        "id": "s15021773",
+        "polyline": "}dboE`ulmUHvB@nBJbE?hADbAF|@DpBA~EBlCAp@@TAvAGhA@|BCZ",
+        "summary_polyline": null
+      },
+      "effort_count": 8811,
+      "athlete_count": 1053,
+      "hazardous": false,
+      "star_count": 5
+    },
+    {
+      "id": 1691520,
+      "name": "Claremont 5K",
+      "activity_type": "Run",
+      "distance": 5027.84,
+      "average_grade": 0,
+      "maximum_grade": 3.6,
+      "elevation_high": 391.1,
+      "elevation_low": 354.9,
+      "start_latlng": [
+        34.10261987708509,
+        -117.71853695623577
+      ],
+      "end_latlng": [
+        34.10259548574686,
+        -117.7184749301523
+      ],
+      "climb_category": 0,
+      "city": "Claremont",
+      "state": "CA",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2012-07-05 22:33:10+00:00",
+      "updated_at": "2021-05-20 08:02:14+00:00",
+      "total_elevation_gain": 41.3892,
+      "map": {
+        "id": "s1691520",
+        "polyline": "ktcoEz{nmUc@AkBBs@Eo@?_@C_AB]Bo@Cc@?_@Fe@Ca@QGm@@_BDwAF_@FgCEsA@kGCwAF}ACiEDu@EkCJeA@w@EwC?sE@u@Dk@Pq@Pe@n@wANe@Jq@Da@Va@d@MlAKhEGb@GDEPeA?_@Fk@Ne@D]F{AEwBFaECoBJm@FClAEjC@tCGh@@d@Ef@Aj@@d@RD^Av@Cl@E|BDxE?~@Cj@?zA?`B?FHPDBHAdEBl@?h@Ed@?^CpBBnAC^@FAlD?tA@TLn@fI?~AF~BBxCF|B@rDCbCBjAAl@JhDCp@Mp@}A`@yALiE?iAEg@BsBEk@B{B@eAEe@?kHFgAC_BBMHC^BzDCh@@~AEb@FrAE~A@t@C`@EDa@@_@FqAG]@",
+        "summary_polyline": null
+      },
+      "effort_count": 689,
+      "athlete_count": 272,
+      "hazardous": false,
+      "star_count": 29
+    },
+    {
+      "id": 23329907,
+      "name": "All of Radcliffe",
+      "activity_type": "Run",
+      "distance": 1187.6,
+      "average_grade": 1.8,
+      "maximum_grade": 3.4,
+      "elevation_high": 439.1,
+      "elevation_low": 418,
+      "start_latlng": [
+        34.118433,
+        -117.720011
+      ],
+      "end_latlng": [
+        34.118803,
+        -117.707234
+      ],
+      "climb_category": 0,
+      "city": "Claremont",
+      "state": "California",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2020-04-07 05:25:44+00:00",
+      "updated_at": "2021-05-15 02:24:26+00:00",
+      "total_elevation_gain": 21.1,
+      "map": {
+        "id": "s23329907",
+        "polyline": "ewfoEbeomUG{BDwB?{BDeBBwEGuKD_CC}FBcDCgCBgMKwAa@{AKk@E}@Og@",
+        "summary_polyline": null
+      },
+      "effort_count": 4090,
+      "athlete_count": 490,
+      "hazardous": false,
+      "star_count": 1
+    },
+    {
+      "id": 6366051,
+      "name": "South on Mills (Baseline to Foothill)",
+      "activity_type": "Run",
+      "distance": 1577.6,
+      "average_grade": -3,
+      "maximum_grade": -1,
+      "elevation_high": 446.7,
+      "elevation_low": 399.3,
+      "start_latlng": [
+        34.121254,
+        -117.707302
+      ],
+      "end_latlng": [
+        34.107092,
+        -117.707259
+      ],
+      "climb_category": 0,
+      "city": "Claremont",
+      "state": "CA",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2014-01-05 21:53:44+00:00",
+      "updated_at": "2021-05-19 08:02:42+00:00",
+      "total_elevation_gain": 0,
+      "map": {
+        "id": "s6366051",
+        "polyline": "yhgoEtulmUdDBfAIb@ApA@x@BfA?j@BzCApB@~DG|BBj@ApGBxCCv@EfA@jBGr@?xBDtB@|DEjF?hCCtCF",
+        "summary_polyline": null
+      },
+      "effort_count": 6003,
+      "athlete_count": 748,
+      "hazardous": false,
+      "star_count": 2
+    },
+    {
+      "id": 10902562,
+      "name": "Gold Hammer",
+      "activity_type": "Run",
+      "distance": 672.6,
+      "average_grade": 0.3,
+      "maximum_grade": 0.7,
+      "elevation_high": 361.9,
+      "elevation_low": 359.8,
+      "start_latlng": [
+        34.104057,
+        -117.736195
+      ],
+      "end_latlng": [
+        34.101911,
+        -117.72942
+      ],
+      "climb_category": 0,
+      "city": "Claremont",
+      "state": "California",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2015-11-19 08:27:52+00:00",
+      "updated_at": "2021-05-15 02:17:15+00:00",
+      "total_elevation_gain": 2.1,
+      "map": {
+        "id": "s10902562",
+        "polyline": "i}coEfjrmUBk@Fi@Ni@T{AZyAHo@Bo@Jo@Ne@Vk@^sAr@eD\\qAJm@j@iCt@iCZqA^sA",
+        "summary_polyline": null
+      },
+      "effort_count": 6180,
+      "athlete_count": 310,
+      "hazardous": false,
+      "star_count": 4
+    },
+    {
+      "id": 19284138,
+      "name": "Mountain Ave to Indian Hill (Arrow Hwy)",
+      "activity_type": "Run",
+      "distance": 762.1,
+      "average_grade": 0.6,
+      "maximum_grade": 3.1,
+      "elevation_high": 338.6,
+      "elevation_low": 333.7,
+      "start_latlng": [
+        34.090202,
+        -117.727758
+      ],
+      "end_latlng": [
+        34.090262,
+        -117.71961
+      ],
+      "climb_category": 0,
+      "city": "Pomona",
+      "state": "California",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2018-11-07 20:08:32+00:00",
+      "updated_at": "2021-05-15 02:22:14+00:00",
+      "total_elevation_gain": 4.9,
+      "map": {
+        "id": "s19284138",
+        "polyline": "wfaoEnupmUHw@?_@?y@C_A?_@Eu@D]GuC?gABy@AkBD_@?aBTmCCy@BQCI@QEMCq@Q}@AS@o@Ec@CiA@]Eg@Bg@?}B",
+        "summary_polyline": null
+      },
+      "effort_count": 383,
+      "athlete_count": 105,
+      "hazardous": false,
+      "star_count": 3
+    },
+    {
+      "id": 10979688,
+      "name": "Farmer Boys?",
+      "activity_type": "Run",
+      "distance": 1034.7,
+      "average_grade": 0.9,
+      "maximum_grade": 1.5,
+      "elevation_high": 341.3,
+      "elevation_low": 332.2,
+      "start_latlng": [
+        34.096387,
+        -117.74823
+      ],
+      "end_latlng": [
+        34.096394,
+        -117.737057
+      ],
+      "climb_category": 0,
+      "city": "Pomona",
+      "state": "California",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2015-12-05 06:07:07+00:00",
+      "updated_at": "2021-05-19 08:03:30+00:00",
+      "total_elevation_gain": 9.1,
+      "map": {
+        "id": "s10979688",
+        "polyline": "kmboElutmU?qDAuAB]BeBEcE@iCAqC@q@Aq@DwIIgEB}GCkF@_E",
+        "summary_polyline": null
+      },
+      "effort_count": 2563,
+      "athlete_count": 450,
+      "hazardous": false,
+      "star_count": 1
+    },
+    {
+      "id": 17426691,
+      "name": "Tiny Stinker (North)",
+      "activity_type": "Run",
+      "distance": 144.4,
+      "average_grade": 3.6,
+      "maximum_grade": 19.8,
+      "elevation_high": 1820.6,
+      "elevation_low": 1814,
+      "start_latlng": [
+        38.851015,
+        -104.828337
+      ],
+      "end_latlng": [
+        38.852282,
+        -104.828436
+      ],
+      "climb_category": 0,
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2018-04-18 22:27:49+00:00",
+      "updated_at": "2021-05-20 08:04:36+00:00",
+      "total_elevation_gain": 6.6,
+      "map": {
+        "id": "s17426691",
+        "polyline": "yaclFbhy~Rm@Bo@EWGy@?mA\\",
+        "summary_polyline": null
+      },
+      "effort_count": 108721,
+      "athlete_count": 6922,
+      "hazardous": false,
+      "star_count": 6
+    },
+    {
+      "id": 5483924,
+      "name": "Stairs to the Turn at Boddington",
+      "activity_type": "Run",
+      "distance": 1413.4,
+      "average_grade": 0.7,
+      "maximum_grade": 5.2,
+      "elevation_high": 1832,
+      "elevation_low": 1820.6,
+      "start_latlng": [
+        38.85402,
+        -104.829636
+      ],
+      "end_latlng": [
+        38.865612,
+        -104.828159
+      ],
+      "climb_category": 0,
+      "city": "Colorado Springs",
+      "state": "CO",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2013-09-13 22:22:13+00:00",
+      "updated_at": "2021-05-20 08:02:43+00:00",
+      "total_elevation_gain": 11.4,
+      "map": {
+        "id": "s5483924",
+        "polyline": "stclFfpy~RQRg@`@]JgBnA[N]TUTm@x@YXiBz@i@FWJeAF_F?iBFkBAaAQwAi@cEuCgB_AyA}@mAeAW_@aByBi@c@q@Sg@EkCGuA?sAI{@Mo@Y",
+        "summary_polyline": null
+      },
+      "effort_count": 72018,
+      "athlete_count": 4849,
+      "hazardous": false,
+      "star_count": 16
+    },
+    {
+      "id": 20583091,
+      "name": "The sneaky one",
+      "activity_type": "Run",
+      "distance": 270.8,
+      "average_grade": 1,
+      "maximum_grade": 5.5,
+      "elevation_high": 1842.4,
+      "elevation_low": 1839.4,
+      "start_latlng": [
+        38.84411,
+        -104.828509
+      ],
+      "end_latlng": [
+        38.846056,
+        -104.829384
+      ],
+      "climb_category": 0,
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2019-05-13 18:56:03+00:00",
+      "updated_at": "2021-05-20 08:05:05+00:00",
+      "total_elevation_gain": 3,
+      "map": {
+        "id": "s20583091",
+        "polyline": "uvalFdiy~R?YGWSEKBsBfBqArAKFe@PqATI?GG",
+        "summary_polyline": null
+      },
+      "effort_count": 42443,
+      "athlete_count": 3207,
+      "hazardous": false,
+      "star_count": 3
+    },
+    {
+      "id": 18911278,
+      "name": "B2B ",
+      "activity_type": "Run",
+      "distance": 1461.7,
+      "average_grade": -0.4,
+      "maximum_grade": 8.9,
+      "elevation_high": 1855,
+      "elevation_low": 1841,
+      "start_latlng": [
+        38.860777,
+        -104.828678
+      ],
+      "end_latlng": [
+        38.859819,
+        -104.831336
+      ],
+      "climb_category": 0,
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2018-09-21 15:49:51+00:00",
+      "updated_at": "2021-05-20 08:04:50+00:00",
+      "total_elevation_gain": 8,
+      "map": {
+        "id": "s18911278",
+        "polyline": "y~dlFfjy~R[AOG}AeA{@e@MISUQe@G_@Ey@@UA_@Ii@U_@_@_@SMUK_AEm@@OD_@RWJeARUJsAPi@@]H{@\\a@Xg@f@i@b@IPGRAf@Lf@JL^PxCT|C?p@Bp@P`@Pb@Z`A~@x@jAZ^jA`ArExC`Af@lC~A",
+        "summary_polyline": null
+      },
+      "effort_count": 18016,
+      "athlete_count": 1647,
+      "hazardous": false,
+      "star_count": 0
+    },
+    {
+      "id": 21463873,
+      "name": "You probably run fast on this part anyway.",
+      "activity_type": "Run",
+      "distance": 506,
+      "average_grade": 0,
+      "maximum_grade": 16.7,
+      "elevation_high": 1830,
+      "elevation_low": 1828,
+      "start_latlng": [
+        38.835248,
+        -104.830087
+      ],
+      "end_latlng": [
+        38.831699,
+        -104.833515
+      ],
+      "climb_category": 0,
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2019-08-13 15:09:46+00:00",
+      "updated_at": "2021-05-20 08:05:13+00:00",
+      "total_elevation_gain": 2,
+      "map": {
+        "id": "s21463873",
+        "polyline": "g_`lF`sy~RhBt@zAt@f@ZtAdBbAzAf@h@XN\\z@n@n@x@jAj@n@V\\n@b@",
+        "summary_polyline": null
+      },
+      "effort_count": 19437,
+      "athlete_count": 3505,
+      "hazardous": false,
+      "star_count": 2
+    },
+    {
+      "id": 1439652,
+      "name": "Memorial Park Loop",
+      "activity_type": "Run",
+      "distance": 1884.59,
+      "average_grade": 0,
+      "maximum_grade": 2,
+      "elevation_high": 1854.2,
+      "elevation_low": 1850.3,
+      "start_latlng": [
+        38.82569281666667,
+        -104.79633888333335
+      ],
+      "end_latlng": [
+        38.82523515,
+        -104.79577716666667
+      ],
+      "climb_category": 0,
+      "city": "Colorado Springs",
+      "state": "CO",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2012-05-24 15:59:26+00:00",
+      "updated_at": "2021-05-18 08:02:45+00:00",
+      "total_elevation_gain": 6.75785,
+      "map": {
+        "id": "s1439652",
+        "polyline": "qc~kFb`s~R@Lu@z@g@jAqApBq@nAGRYvA[x@o@~@_@p@s@nBg@p@Qd@Kf@?XHj@\\p@fAnCf@|@j@nAj@j@D@n@a@bDkCpCaBrBoBh@u@f@k@hBqDT[NW\\{@`A{BfA_BZk@@EBQC}@Qw@So@m@cA_AgBaAaBoAcBIGKEq@Cy@HQHc@^uAdC",
+        "summary_polyline": null
+      },
+      "effort_count": 5231,
+      "athlete_count": 818,
+      "hazardous": false,
+      "star_count": 11
+    },
+    {
+      "id": 19379756,
+      "name": "300m stretch",
+      "activity_type": "Run",
+      "distance": 290.8,
+      "average_grade": -2.5,
+      "maximum_grade": -0.4,
+      "elevation_high": 1863.3,
+      "elevation_low": 1855.9,
+      "start_latlng": [
+        38.821555,
+        -104.855128
+      ],
+      "end_latlng": [
+        38.821409,
+        -104.851789
+      ],
+      "climb_category": 0,
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2018-11-23 18:09:44+00:00",
+      "updated_at": "2021-05-19 08:04:47+00:00",
+      "total_elevation_gain": 0,
+      "map": {
+        "id": "s19379756",
+        "polyline": "ui}kFpo~~RDe@DeB?iDPeJ",
+        "summary_polyline": null
+      },
+      "effort_count": 25134,
+      "athlete_count": 1809,
+      "hazardous": false,
+      "star_count": 2
+    },
+    {
+      "id": 2588795,
+      "name": "Sunrise Striders Bear Creek Tempo",
+      "activity_type": "Run",
+      "distance": 6255.89,
+      "average_grade": 0.2,
+      "maximum_grade": 25.2,
+      "elevation_high": 1928.8,
+      "elevation_low": 1862.6,
+      "start_latlng": [
+        38.8221098,
+        -104.8409806
+      ],
+      "end_latlng": [
+        38.8221919,
+        -104.8409878
+      ],
+      "climb_category": 0,
+      "city": "Colorado Springs",
+      "state": "CO",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2012-10-17 02:38:35+00:00",
+      "updated_at": "2021-05-19 08:02:12+00:00",
+      "total_elevation_gain": 122,
+      "map": {
+        "id": "s2588795",
+        "polyline": "em}kFdw{~RHr@LXJd@l@bAZt@t@|@Vl@LDb@SF?JDN\\Fd@NRXTTb@X^jBhAXp@@ZDFDB`@CNNb@nAT\\ZVRFDA@E@WHS\\e@`@sAFKVEb@Xh@j@RVp@hAXNb@Hb@LXL^l@@n@_AjDIr@?h@D`AHp@RjA@~@Mf@W\\Qn@Uh@k@`Ai@nBMVIFU@[BSAi@Se@_@UJOBECUa@WY[KYDOPGP@XL^n@r@`@TXTt@bAd@`AjAbATh@J\\@REl@It@Op@]x@Gt@SrAD`@j@vBj@rCf@xCBn@?d@Fb@AhAObAKf@OnAO`@[Pc@B_@QQQYe@e@sA_@m@cAw@SK_@GO?]@g@P_@TaA~@c@Z}At@a@JYQw@_Da@uBIw@?q@Dw@Lw@LcCF{FR{J\\wAVo@\\[^Ux@c@TFHJ`@`AfA|Cd@jCRd@l@~@RDn@MB@HP@f@Fl@NVNb@^rB?rABRHNXV~BlADEE]a@_BUkAUu@Gc@ZyCZaAPcADa@@y@K_@OYUYy@o@g@eAw@iA_@[C?KGe@m@KUIk@Pa@VKDAZHb@ZXb@JDNIV?d@\\j@Jb@Eb@Ul@aCd@gAd@_BTc@Bq@AQGq@Q_AIu@?eBHo@r@kCFg@Mc@a@We@O]Ek@QeA}Aq@m@SMKCSLMRSp@[n@IJOd@OCECg@_@KMUg@Uu@YKYDIOGs@SYa@_@}@g@m@o@Wa@][GOIo@MKO@SLS?i@}@SUUc@Wk@k@gAYy@Iq@",
+        "summary_polyline": null
+      },
+      "effort_count": 461,
+      "athlete_count": 113,
+      "hazardous": false,
+      "star_count": 14
+    },
+    {
+      "id": 1347425,
+      "name": "Constitution Path School West to Union",
+      "activity_type": "Run",
+      "distance": 998.499,
+      "average_grade": -0.8,
+      "maximum_grade": 3.1,
+      "elevation_high": 1891.6,
+      "elevation_low": 1881.6,
+      "start_latlng": [
+        38.8589399,
+        -104.7828952
+      ],
+      "end_latlng": [
+        38.8614364,
+        -104.793653
+      ],
+      "climb_category": 0,
+      "city": "Colorado Springs",
+      "state": "CO",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2012-05-08 04:21:25+00:00",
+      "updated_at": "2021-05-15 02:12:01+00:00",
+      "total_elevation_gain": 2.38819,
+      "map": {
+        "id": "s1347425",
+        "polyline": "isdlFblp~RHbG?zCBtAAv@GlCI|Aa@lDe@tC[nAu@dCm@dBsApEk@hB_@rAId@eAvC_@xAUd@",
+        "summary_polyline": null
+      },
+      "effort_count": 4871,
+      "athlete_count": 646,
+      "hazardous": false,
+      "star_count": 4
+    },
+    {
+      "id": 18599660,
+      "name": "The Broadmoor Loop",
+      "activity_type": "Run",
+      "distance": 16459.7,
+      "average_grade": 0,
+      "maximum_grade": 11.3,
+      "elevation_high": 2008,
+      "elevation_low": 1813.6,
+      "start_latlng": [
+        38.81086,
+        -104.826711
+      ],
+      "end_latlng": [
+        38.810766,
+        -104.826675
+      ],
+      "climb_category": 0,
+      "city": "Colorado Springs",
+      "state": "Colorado",
+      "country": "United States",
+      "private": false,
+      "athlete_pr_effort": null,
+      "created_at": "2018-08-20 13:44:28+00:00",
+      "updated_at": "2021-05-17 08:07:45+00:00",
+      "total_elevation_gain": 247.8,
+      "map": {
+        "id": "s18599660",
+        "polyline": "{f{kF~}x~RXB^@\\S\\EzAFjAENBNH`ClGjBtFDTz@fCT|@f@zAP~@n@dBLj@fA~CRbARf@f@hBh@vAXdA|BjHl@|Al@|Bb@lAh@lBFNd@zAbArCNl@r@bCRf@rAnE`AvCr@lCPj@Th@Pz@d@rARt@l@zAx@dC\\tBTfBRdDXzBRpARl@d@fAv@rBj@xDPn@Fr@R`An@vBh@pA~@|CVh@Vf@Zd@bAfApAt@bAn@fBx@lBlA\\ZdBbBhAnAj@j@tA~AjAjAv@j@hAvAl@j@hArA|BbCdBxA`@Tf@j@Td@d@tAZxAr@dCJh@RlBCt@S~C@p@JfARn@b@`AbAtAf@z@p@z@r@t@z@t@X^p@p@~AhBp@`ArAjAh@\\bA|ARR\\Tb@NlAj@H?FKWe@{@_AWe@{@{B{@mBWc@i@s@s@kAw@_BQi@Y{EG_BQiHBuCDg@p@eCbAsBR[x@{@nByBv@mArA_DVg@f@wAj@sAb@oAz@sBl@kAZe@Vc@Zc@p@e@hAiAr@a@xBcAj@MbBYz@KhBEvCPvAV`@L`EdB^Jt@LxAh@Z\\Vb@b@|@j@xALNNLVFb@AbCmARUNQh@sA^_@n@g@Zc@d@qALs@LyB?c@c@}HAmARaCV_AVi@h@y@l@o@^U`@a@Pe@Do@@cAA_AG_Ae@_DYcAOWa@mAg@}@a@m@y@q@{@i@m@Wk@QkASc@SIIQYaBqDi@gBS}@Qe@M_@Y[]O]Ee@FgAp@UFe@B_@EqBg@i@KqCCg@CKCUi@EuBEq@Ao@Dq@AsCIaBQaAaAqC_@k@{@_Ak@c@}Cw@g@Ge@E}CEk@DyA?qCIaFCy@Gm@OQGy@e@qAeA]_@We@YwA_@kAiAyBk@uAU_@]]g@Yc@Ks@A_@F}@Jg@RiARaBNe@Ek@Qc@Y]Ws@kA_@c@QMo@Ky@E_AJgAPe@LWXBz@z@|FLlAPbAJr@LjBZdBr@rEZtCRl@FxAl@xDDl@Nj@VnBHr@b@rCjB~ORhAFl@b@`D\\zATrBLl@Lz@Ef@YLYRy@z@_@b@e@z@q@~BYzAQh@Qp@i@zAc@`AWL]@w@Mi@]wEuFUc@a@e@e@cAWeAW{AeAwGGm@m@uDIo@Y_BEk@@u@BEb@UX_@?EW{AWmBa@gCi@sDQaBUwAQ}AMm@Yg@Ye@]u@Qk@YoBAs@KoBScBEs@?q@RaBZsANwA?aBEWqBKg@Iu@W_AMiEK_@CiAAyBIe@I_@Y_@s@Q]Ok@Qa@c@Ec@PeBdAgB`Ag@N_@PK@a@[]o@Wa@K_@Sa@E?a@VaBnAg@Zg@VG?y@_AWc@yA_EIm@e@qAsAqE}AyEqA{E}@cCc@eBYk@s@cCMQQi@]gAc@Yq@AcBSwB?",
+        "summary_polyline": null
+      },
+      "effort_count": 115,
+      "athlete_count": 10,
+      "hazardous": false,
+      "star_count": 15
+    }
+  ]
+}
