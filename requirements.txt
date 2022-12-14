@@ -1,4 +1,5 @@
 swagger_client (pip install git+https://github.com/sladkovm/strava-swagger-client)
 gpxpy (pip install https://pypi.org/project/gpxpy/)
 fit2gpx (pip install https://pypi.org/project/fit2gpx/)
+poyline(pip insall polyline)
 
