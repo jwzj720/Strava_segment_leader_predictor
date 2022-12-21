@@ -9,7 +9,7 @@ This project will compare a given athlete to a Strava Segment, with the goal of 
 **data_gathering** - jupyter notebooks containing scripts for gathering segment and run data  
 **experiment_notebooks** - notebooks where experiments pertaining to implementation 1 & 2 are stored.  
 **data** - holds different types of relevent data used by our algorithms    
-**jays_notebook** - contains notebooks broadly pertaining to implementation 3   
+**Jay_Notebooks** - contains notebooks broadly pertaining to implementation 3   
 
 ### Implementation 1 (Athlete vs Standardized segment)
 
@@ -32,15 +32,15 @@ Get a sample of GPX run data from a user and compare that data to the run data o
   `j > i` are indices from the first sequence, then there must not be two indices `l > k` in the other sequence, such that index `i` is matched with index `l` and index `j` is matched with index `k` , and vice versa
 * The optimal match is denoted by the match that satisfies all the restrictions and the rules and that has the minimal cost, where the cost is computed as the sum of absolute differences, for each matched pair of indices, between their values.
 ##### How to use:
-1. Use the data_gathering/strava_api_scraping.ipynb to get the detailed segment data for desired segments and save as a JSON file. 
-2. Use experiment_notebooks/detailed_segment_data_maps.ipynb to generate JSON files of lists of coorindates
+1. Use the data_gathering/strava_api_scraping.ipynb to get the detailed segment data for desired segments and save as a JSON file.
+2. Use experiment_notebooks/detailed_segment_data_maps.ipynb to generate JSON files of lists of coordinates
 3. Use experiment_notebooks/coordinates_to_elevation.ipynb to convert those to have elevation data using the USGS API
 4. Add a representative amount of .GPX files from desired users to a folder, I used data/Mix_data
-5. In experiment_notebooks/segment_v_segment.ipynb run the method compare_user_activities_to_segment(segmentPath, segmentID) with the path of the segment and the segment ID as strings. This will tell you wheter you could or couldn't get the segment.
-### Implementations 3 (Athlete data vs Athlete data)
+5. In experiment_notebooks/segment_v_segment.ipynb run the method compare_user_activities_to_segment(segmentPath, segmentID) with the path of the segment and the segment ID as strings. This will tell you whether you could or couldn't get the segment.
 
-Get some data about the athlete attempting the segment vs the athlete with the current best time. This could be PR's, estimated PR's, or previous run data. Use this data to compare the two athletes.
-
+### Implementation 3 (Athlete data vs Athlete data)
+Compares two athletes' given performances to estimate an athlete's ideal performance on a given segment.
+Given an athlete's run data in the form of time and distance stats, fits a curve which can be used to estimate and compare athletes' capabilities. Considering the tendency of arbitrary strava segments to be more challenging than a (flat) track race of equivalent distance, the estimation can compare the KOM athlete's projected time for the segment to their actual performance, scaling the user's time accordingly for a more accurate prediction.
 
 ## Results
 We tested our results by looking at a small sample of runs that James Settles has the KOM on. We then tested our implementations on these segments, using James Settles' running data to compare. The results we found were that on average our implementations successfully predicted that James would get the segments he already has. Our main algorithm, DTW, correctly predicted all of the runs that it was able to create an accurate match for. However, runs like the Blue Ridge Segment that didn't find any good runs for comparison, were predicted incorrectly. These results are still promising as they show that the more data we have, the more accurate the DTW algorithm will become.
