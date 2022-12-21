@@ -6,20 +6,20 @@ This project will compare a given athlete to a Strava Segment, with the goal of 
 
 ### Repository structure
 
-**data_gathering** - jupyter notebooks containing scripts for gathering segment and run data
-**experiment_notebooks** - notebooks where experiments pertaining to implementation 1 & 2 are stored.
-**data** - holds different types of relevent data used by our algorithms
-**jays_notebook** - contains notebooks broadly pertaining to implementation 3
+**data_gathering** - jupyter notebooks containing scripts for gathering segment and run data  
+**experiment_notebooks** - notebooks where experiments pertaining to implementation 1 & 2 are stored.  
+**data** - holds different types of relevent data used by our algorithms    
+**jays_notebook** - contains notebooks broadly pertaining to implementation 3   
 
 #### Implementation 1 (Athlete vs Standardized segment)
 
-Stored in **experiment_notebooks/athlete_v_segmet.ipynb**
+Stored in **experiment_notebooks/athlete_v_segmet.ipynb**   
 
 Take in an athlete's 5k PR as a percentage of the world record. Use this percentage to estimate other times that athlete could run at differing distances. Use these distances and times to plot a "perfomance curve" for the athlete. Then calculate the Grade Adjusted Pace (GAP) for the segment's current best known time. Plot this GAP against the perfomance curve to determine if the athlete would get the segment.
 
 #### Implementation 2 (Athlete run data vs Segment run data)
 
-Stored in **experiment_notebooks/segment_v_segment.ipynb**
+Stored in **experiment_notebooks/segment_v_segment.ipynb**  
 
 Get a sample of GPX run data from a user and compare that data to the run data of the segment. By using a pattern matching algorithm to match a run with the segment, we can then measure how the athletes past performance compares to the segment. Pattern matching algorithms, such as dynamic time warping (DTW), an algorithm commonly used in market analysis and waveform analysis, will be able to compare past runs elevation/distance profile to the segment. Once a segment has been matched to a run, we can see if an athlete would run a faster time than the current segment record.
 
