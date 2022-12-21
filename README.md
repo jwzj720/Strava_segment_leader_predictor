@@ -2,20 +2,26 @@
 
 ## Overview
 
-This project will allow a given athlete to search a range of x miles around themselves and determine
-which Strava segments they could likely get the # 1 ranked time on
+This project will compare a given athlete to a Strava Segment, with the goal of seeing whether the athlete could achieve the best known time on the segment. We use three different methods to assess if an athlete could achieve a segment. The main aglorithm for doing so is a Dynamic Time Warping algorithm. The other two alorithms are less sophisticated and provide a baseline to compare our DTW algorith against.
 
-### Potential implementations
+### Repository structure
 
-Looking at three different possible implementations:
+**data_gathering** - jupyter notebooks containing scripts for gathering segment and run data
+**experiment_notebooks** - notebooks where experiments pertaining to implementation 1 & 2 are stored.
+**data** - holds different types of relevent data used by our algorithms
+**jays_notebook** - contains notebooks broadly pertaining to implementation 3
 
 #### Implementation 1 (Athlete vs Standardized segment)
 
-Take the athlete's PR or some data about their speed and compare it to the segment itself. In order to do this we need to find a way to standardize segments so that they may be reduced to a value easily comparable to the athlete's performance. Looking into Algorithms that create Grade Adjusted Pace (GAP) or similar standardizations may be useful
+Stored in **experiment_notebooks/athlete_v_segmet.ipynb**
+
+Take in an athlete's 5k PR as a percentage of the world record. Use this percentage to estimate other times that athlete could run at differing distances. Use these distances and times to plot a "perfomance curve" for the athlete. Then calculate the Grade Adjusted Pace (GAP) for the segment's current best known time. Plot this GAP against the perfomance curve to determine if the athlete would get the segment.
 
 #### Implementation 2 (Athlete run data vs Segment run data)
 
-Get a sample of GPX run data from a user (perhaps only workouts and races) and compare that data to the run data of the segment. By using a pattern matching algorithm to match a run with the segment, we can then measure how the athletes past performance compares to the segment. Pattern matching algorithms, such as dynamic time warping (DTW), an algorithm commonly used in market analysis and waveform analysis, will be able to compare past runs elevation/distance profile to the segment, and then we will compare times to see how far off atheletes are. 
+Stored in **experiment_notebooks/segment_v_segment.ipynb**
+
+Get a sample of GPX run data from a user and compare that data to the run data of the segment. By using a pattern matching algorithm to match a run with the segment, we can then measure how the athletes past performance compares to the segment. Pattern matching algorithms, such as dynamic time warping (DTW), an algorithm commonly used in market analysis and waveform analysis, will be able to compare past runs elevation/distance profile to the segment. Once a segment has been matched to a run, we can see if an athlete would run a faster time than the current segment record.
 
 ##### DTW Algorithm: (from wiki)
 
@@ -29,4 +35,4 @@ Get a sample of GPX run data from a user (perhaps only workouts and races) and c
 
 ### Implementations 3 (Athlete data vs Athlete data)
 
-Get some data about the athlete attempting the segment vs the athlete with the current best time. This could be PR's, estimated PR's, or previous run data.
+Get some data about the athlete attempting the segment vs the athlete with the current best time. This could be PR's, estimated PR's, or previous run data. Use this data to compare the two athletes.
