@@ -40,3 +40,7 @@ Get a sample of GPX run data from a user and compare that data to the run data o
 ### Implementations 3 (Athlete data vs Athlete data)
 
 Get some data about the athlete attempting the segment vs the athlete with the current best time. This could be PR's, estimated PR's, or previous run data. Use this data to compare the two athletes.
+
+
+## Results
+We tested our results by looking at a small sample of runs that James Settles has the KOM on. We then tested our implementations on these segments, using James Settles' running data to compare. The results we found were that on average our implementations successfully predicted that James would get the segments he already has. Our main algorithm, DTW, correctly predicted all of the runs that it was able to create an accurate match for. However, runs like the Blue Ridge Segment that didn't find any good runs for comparison, were predicted incorrectly. These results are still promising as they show that the more data we have, the more accurate the DTW algorithm will become.
