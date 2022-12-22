@@ -31,7 +31,7 @@ Get a sample of GPX run data from a user and compare that data to the run data o
   other sequence must be monotonically increasing, and vice versa, i.e. if
   `j > i` are indices from the first sequence, then there must not be two indices `l > k` in the other sequence, such that index `i` is matched with index `l` and index `j` is matched with index `k` , and vice versa
 * The optimal match is denoted by the match that satisfies all the restrictions and the rules and that has the minimal cost, where the cost is computed as the sum of absolute differences, for each matched pair of indices, between their values.
-##### How to use:
+#### How to use:
 1. Use the data_gathering/strava_api_scraping.ipynb to get the detailed segment data for desired segments and save as a JSON file.
 2. Use experiment_notebooks/detailed_segment_data_maps.ipynb to generate JSON files of lists of coordinates
 3. Use experiment_notebooks/coordinates_to_elevation.ipynb to convert those to have elevation data using the USGS API
