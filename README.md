@@ -39,6 +39,7 @@ Get a sample of GPX run data from a user and compare that data to the run data o
 5. In experiment_notebooks/segment_v_segment.ipynb run the method compare_user_activities_to_segment(segmentPath, segmentID) with the path of the segment and the segment ID as strings. This will tell you whether you could or couldn't get the segment.
 
 ### Implementation 3 (Athlete data vs Athlete data)
+Stored in **experiment_notebooks/athlete_v_athlete.ipynb**
 Compares two athletes' given performances to estimate an athlete's ideal performance on a given segment.
 Given an athlete's run data in the form of time and distance stats, fits a curve which can be used to estimate and compare athletes' capabilities. Considering the tendency of arbitrary strava segments to be more challenging than a (flat) track race of equivalent distance, the estimation can compare the KOM athlete's projected time for the segment to their actual performance, scaling the user's time accordingly for a more accurate prediction.
 
