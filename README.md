@@ -4,6 +4,12 @@
 
 This project will compare a given athlete to a Strava Segment, with the goal of seeing whether the athlete could achieve the best known time on the segment. We use three different methods to assess if an athlete could achieve a segment. The main aglorithm for doing so is a Dynamic Time Warping algorithm. The other two alorithms are less sophisticated and provide a baseline to compare our DTW algorith against.
 
+## Contributers
+
+Walt desiged and coded segment_v_segment.ipynb and all supporting code in other packages, including /data_gathering.
+James designed and coded athlete_v_segment.ipynb and much of the code in package /data_gathering.
+Jay coded athlete_v_athlete.ipynb
+
 ### Repository structure
 
 **data_gathering** - jupyter notebooks containing scripts for gathering segment and run data  
